@@ -25,4 +25,19 @@ public class AppTest {
         System.out.println("Running test 1");
     }
 
+    @Test
+    public void test5(){
+        System.out.println("Running test 5");
+    }
+
+    @Test
+    public void test6(){
+        System.out.println("Running test 6");
+    }
+
+    @Test
+    public void test7(){
+        System.out.println("Running test 7");
+    }
+
 }
